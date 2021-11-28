@@ -18,7 +18,7 @@ Code for "An Enhanced SiamMask Network for Coastal Ship Tracking"
 
 ## Details
 
-## Cite
+## Bibtex
 
 @article{yang2021enhanced,
   title={An Enhanced SiamMask Network for Coastal Ship Tracking},
