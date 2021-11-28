@@ -18,16 +18,6 @@ Code for "An Enhanced SiamMask Network for Coastal Ship Tracking"
 
 ## Details
 
-1、
-
-2、
-
-3、
-
-4、
-
-5、
-
 ## Cite
 
 @article{yang2021enhanced,
