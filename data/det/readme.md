@@ -1,4 +1,4 @@
-### Crop & Generate data info (10 min)
+### Crop & Genarate Json
 
 ````shell
 #python par_crop.py [crop_size] [num_threads]
