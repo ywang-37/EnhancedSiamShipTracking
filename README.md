@@ -19,7 +19,7 @@ Code for "An Enhanced SiamMask Network for Coastal Ship Tracking"
 ## Details
 
 ## Bibtex
-
+```
 @article{yang2021enhanced,
   title={An Enhanced SiamMask Network for Coastal Ship Tracking},
   author={Yang, Xi and Wang, Yan and Wang, Nannan and Gao, Xinbo},
@@ -27,7 +27,7 @@ Code for "An Enhanced SiamMask Network for Coastal Ship Tracking"
   year={2021},
   publisher={IEEE}
 }
-
+```
 ## License
 
 Licensed under the Apache 2.0 license.
